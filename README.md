@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Comedy
+Comedy (Ancient Greek: κωμῳδία) was one of the final three principal dramatic forms.
 <pre>
-  pip install independent-machine
+  pip install comedy
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import comedy
 ```
